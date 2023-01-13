@@ -73,3 +73,19 @@ div #txt-resumo {
 
 
 }
+
+
+#contato img{
+   width:20px;
+   height:20px;
+   display:block;
+   text-align: right;
+   float: left;
+   margin-top: 20px;
+   margin-left: 5px;
+}
+#contato h4{
+    float: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
